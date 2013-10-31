@@ -3,6 +3,7 @@
 
     <string name="app_name">Extras</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="main">Main Activity!</string>
+    <string name="other">Other Activity!</string>
 
 </resources>
